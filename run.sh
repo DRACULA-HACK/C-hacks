@@ -49,7 +49,7 @@ echo -e  $ylo " chechus alam vititu chetan na
 
                chetan ude reason nth arykum
 
-               sed the answer in my wha :-
+               send the answer in my wha :-
 
           "
 sleep 10
