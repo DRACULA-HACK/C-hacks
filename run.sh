@@ -65,11 +65,14 @@ echo $blue "
                 wha me :-
 
                   "
-
+echo -e " chose your option if accept type 1
+          If reject type 2 
+"
+echo ""
 echo -e $pink "            (1) Accept
 "
 echo -e $cyan "
-                         (2) reject
+                           (2) reject
                 "
 
 read -p " Enter Your Choice :- " choice
