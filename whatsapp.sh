@@ -1,6 +1,4 @@
-  GNU nano 6.3                                                                    whatxt.sh                                                                              #!/bin/bash
-
-
+#!/bin/bash
 echo -e "
 $rset        $blue select (type the number)
 
