@@ -1,4 +1,4 @@
-
+#!/bin/bash
 clear
 apt install pv -y
 apt install figlet -y
