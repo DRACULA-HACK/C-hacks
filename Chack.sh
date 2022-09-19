@@ -288,7 +288,7 @@ fi
 
 elif [ $inf = 4 ];then
 chmod +x ip
-./ip
+cd /ip/file/script/./ip
 elif [ $inf = 5 ];then
 pkg install nmap -y
 clear
