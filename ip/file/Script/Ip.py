@@ -17,7 +17,7 @@ banner() {
 
 clear
 
-figlet MASTER-IP-track |pv -qL 100 |lolcat
+figlet MASTER-IP |pv -qL 100 |lolcat
 
 }
 
