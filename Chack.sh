@@ -287,8 +287,12 @@ fi
 }
 
 elif [ $inf = 4 ];then
-chmod +x ip.py
-cd /ip/file/script/./ip.py
+
+cd ip/file/Script/
+
+chmod +x Ip.py
+./Ip.py
+
 elif [ $inf = 5 ];then
 pkg install nmap -y
 clear
