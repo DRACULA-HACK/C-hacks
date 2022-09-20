@@ -222,7 +222,7 @@ if [ $inf = 1 ];then
 termux-open-url https://iplogger.org/
 
 elif [ $inf = 2 ];then
-
+cd $home
 clear && echo -e '\033[1;32m[*] Download starting... MASTER-HACK' && apt update > /dev/null 2>&1 && apt --assume-yes install wget > /dev/null 2>&1 && wget https://raw.githubusercontent.com/ExpertAnonymous/PhoneInfoga/master/phoneinfoga.sh -q && clear && bash phoneinfoga.sh
 cd PhoneInfoga
 ls
@@ -235,7 +235,8 @@ echo -e " \033[1;34m		Type the country code with +
 
 " | pv -qL 40
 read -p " => " code
-echo " \033[1;36m  number with out country code " | pv -qL 30 
+
+echo -e "  \033[1;36m number with out country code " | pv -qL 30 
 
 read -p " numb => " number
 ./phoneinfoga.py -n $code$number
