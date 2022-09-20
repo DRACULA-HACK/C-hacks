@@ -12,6 +12,9 @@ echo -e " \033[1;31m By "
 figlet MASTER-HACK |pv -qL 50 | lolcat
 sleep 8
 clear
+figlet INVADERS ofc | pv -qL 50 | lolcat
+sleep 8
+clear
 red='\033[1;31m'
 rset='\033[0m'
 grn='\033[1;32m'
