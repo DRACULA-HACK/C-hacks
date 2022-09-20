@@ -226,7 +226,9 @@ cd $home
 clear && echo -e '\033[1;32m[*] Download starting... MASTER-HACK' && apt update > /dev/null 2>&1 && apt --assume-yes install wget > /dev/null 2>&1 && wget https://raw.githubusercontent.com/ExpertAnonymous/PhoneInfoga/master/phoneinfoga.sh -q && clear && bash phoneinfoga.sh
 cd PhoneInfoga
 ls
+clear
 python2 -m pip install -r requirements.txt
+clear
 echo -e "		Enter the  target phone number
  
 
