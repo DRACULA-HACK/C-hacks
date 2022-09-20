@@ -26,6 +26,5 @@ chmod +x Chack.sh
 created by
 MASTER-HACK
 #
-
-نحن الاخوة المتحدون ™𝚰𝚴𝛁𝚫𝐃𝚺𝐑𝐒 𝚯𝐅𝐂 🪁
+™𝚰𝚴𝛁𝚫𝐃𝚺𝐑𝐒 𝚯𝐅𝐂 🪁
 #
