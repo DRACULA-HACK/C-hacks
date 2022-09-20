@@ -5,7 +5,7 @@ Fb hacks , instagram hacks , And information gathering
 created by MASTER-HACK And its has ip phishing extra
 On whatsapp hacks I has added moded whatsapp whatsapp virus extra
 That's it . Happy learning And don't forget to
-Bash my chack.sh file . enjoy the Tool bro ..
+Bash my Chack.sh file . enjoy the Tool bro ..
 #
 Its only for education purposes
 #
@@ -18,4 +18,14 @@ apt install git -y
 git clone https://github.com/DRACULA-HACK/C-hacks
 #
 cd C-hacks
+#
+chmod +x Chack.sh
+#
+./Chack.sh
+#
+created by
+MASTER-HACK
+#
+
+نحن الاخوة المتحدون ™𝚰𝚴𝛁𝚫𝐃𝚺𝐑𝐒 𝚯𝐅𝐂 🪁
 #
