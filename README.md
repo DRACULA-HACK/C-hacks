@@ -9,7 +9,8 @@ Bash my chack.sh file . enjoy the Tool bro ..
 #
 Its only for education purposes
 #
-Installation
+# Installation
+#
 apt update -y && apt upgrade -y
 #
 apt install git -y
