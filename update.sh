@@ -3,7 +3,11 @@
 echo -e " updating " |lolcat
 echo ""
 echo ""
-echo " please wait
+cd $home
+echo " please wait | pv -qL 50| lolcat
+echo ""
+echo ""
+
 
 rm -rf  C-hacks
 
