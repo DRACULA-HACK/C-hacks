@@ -64,8 +64,8 @@ sleep 4
 termux-open-url https://github.com/DRACULA-HACK/whatsapp-bot-md
 
                elif [ $whachoice = 2 ];then
-cd $home
-               git clone https://github.com/Ignitetch/AdvPhishing.git
+cd $home 
+git clone https://github.com/Ignitetch/AdvPhishing
 cd AdvPhishing/
 chmod 777 *
 ./Android-Setup.sh
