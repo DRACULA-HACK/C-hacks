@@ -1,6 +1,9 @@
+#!/bin/bash
+
 echo -e " updating " |lolcat
 echo ""
 echo ""
+echo " please wait
 
 rm -rf  C-hacks
 
