@@ -13,21 +13,21 @@ Its only for education purposes
 #
 # Installation
 #
-apt update -y && apt upgrade -y
-#
-apt install git -y
-#
-git clone https://github.com/DRACULA-HACK/C-hacks
-#
-cd C-hacks
-#
-chmod +x Chack.sh
-#
-./Chack.sh
+` apt update -y && apt upgrade -y `
+
+` apt install git -y `
+
+` git clone https://github.com/DRACULA-HACK/C-hacks `
+
+` cd C-hacks `
+
+` chmod +x Chack.sh `
+
+` ./Chack.sh `
 #
 created by
 MASTER-HACK
 #
 ™𝚰𝚴𝛁𝚫𝐃𝚺𝐑𝐒 𝚯𝐅𝐂 🪁
 #
-https://wa.me//+916235369260
+https://wa.me//+916235369260 
