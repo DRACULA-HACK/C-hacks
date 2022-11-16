@@ -369,7 +369,7 @@ fi
 
 ip_phishing() {
 
-bash ip.py
+bash iplocalmasterphish.py
 }
 banner
 
