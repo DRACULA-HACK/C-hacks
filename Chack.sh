@@ -319,5 +319,5 @@ fi
 }
 else
 echo "wrong option "
-bash Chacks.sh
+bash Chack.sh
 fi
