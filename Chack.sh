@@ -196,6 +196,7 @@ chmod +x insta4.sh
 
 
 elif [ $choice = 4 ];then
+{
 clear
 figlet INF gathering |pv -qL 50 | lolcat
 
@@ -315,5 +316,8 @@ echo -e "
  echo -e " \033[1;34m type \033[1;31mnmap - options \033[1;34mfor to run the nmap "
 
 fi
-
+}
+else
+echo "wrong option "
+bash Chacks.sh
 fi
