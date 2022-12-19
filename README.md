@@ -35,3 +35,9 @@ MASTER-HACK
 ™𝚰𝚴𝛁𝚫𝐃𝚺𝐑𝐒 𝚯𝐅𝐂 🪁
 #
 https://wa.me//+916235369260 
+
+#
+
+<img src="https://github.com/DRACULA-HACK/C-hacks/blob/main/IMG_20221219_091935.jpg" alt="alternatetext">
+
+#
