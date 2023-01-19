@@ -4,7 +4,7 @@ echo -e " updating " |lolcat
 echo ""
 echo ""
 cd $home
-echo " please wait | pv -qL 50| lolcat
+echo " please wait " | pv -qL 50| lolcat
 echo ""
 echo ""
 
