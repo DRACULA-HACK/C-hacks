@@ -1,12 +1,15 @@
-#!/bin/bash
+#!/bin/hash
+echo -e " tool is for termux users "
+sleep 2
+
 echo " if you have any issues or errors contact me "
 sleep 5
 xdg-open https://wa.me//+916235369260
 clear
-apt install pv -y
-apt install figlet -y
+pkg install pv -y
+pkg install figlet -y
 termux-setup-storage -y
-apt install ruby -y
+pkg install ruby -y
 gem install lolcat
 clear
 
