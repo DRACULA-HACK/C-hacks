@@ -5,7 +5,7 @@ xdg-open https://wa.me//+916235369260
 clear
 apt install pv -y
 apt install figlet -y
-termux-storage-setup -y
+termux-setup-storage -y
 apt install ruby -y
 gem install lolcat
 clear
