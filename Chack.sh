@@ -6,7 +6,10 @@ termux-storage-setup -y
 apt install ruby -y
 gem install lolcat
 clear
-
+echo " if you have any issues or errors contact me "
+sleep 5
+xdg-open https://wa.me//+916235369260
+sleep 5
 figlet HI BRO |pv -qL 50 | lolcat
 echo -e " \033[1;31m By "
 figlet MASTER-HACK |pv -qL 50 | lolcat
