@@ -15,6 +15,7 @@ Bash my Chack.sh file . enjoy the Tool bro ..
 #
 Its only for education purposes
 #
+Updates coming soon
 # Installation
 #
 ` apt update -y && apt upgrade -y `
