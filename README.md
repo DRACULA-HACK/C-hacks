@@ -26,9 +26,9 @@ Updates coming soon
 
 ` cd C-hacks `
 
-` chmod +x Chack.sh `
+` chmod +x chack.sh `
 
-` ./Chack.sh `
+` ./chack.sh `
 #
 created by
 MASTER-HACK
