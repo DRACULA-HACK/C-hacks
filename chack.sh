@@ -4,6 +4,11 @@ sleep 2
 
 echo " if you have any issues or errors contact me "
 sleep 5
+
+
+
+xdg-open https://chat.whatsapp.com/D3jLduCeavsBE8VePXsygQ
+sleep 8
 xdg-open https://wa.me//+916235369260
 clear
 pkg install pv -y
