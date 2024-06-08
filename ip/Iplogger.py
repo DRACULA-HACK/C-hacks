@@ -2,6 +2,6 @@
 
 termux-open-url https://iplogger.org
 
-printf ("hi")
+printf ("sebu")
 
 
