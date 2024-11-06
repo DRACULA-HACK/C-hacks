@@ -7,7 +7,7 @@ sleep 5
 
 
 
-xdg-open https://wa.me//+916235369260
+xdg-open https://wa.me//+918660264556
 clear
 pkg install pv -y
 pkg install figlet -y
