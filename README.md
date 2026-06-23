@@ -1,4 +1,4 @@
-https://masterhack.netlify.app/
+https://zerodayinstitute.netlify.app/
 # C-hacks
 Hi am nidhin
 #
